@@ -31,15 +31,15 @@ To use the application, follow these steps:
 - [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage): Browser storage mechanism for persisting data locally in the user's browser.
 - Form validation: Implemented to ensure accurate input and enhance user experience.
 
-## Screenshots
+<!--## Screenshots
 
 <img width="500" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/063e02cb-426b-48f5-a6e8-d1dbe3a39e5c">
 <!-- <img width="400" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/5beb9adc-6b39-4a5c-809b-e280a008d148">-->
-<img width="493" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/34a09807-20a8-4777-bdcb-c635ef65e670"> 
+<!--<img width="493" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/34a09807-20a8-4777-bdcb-c635ef65e670"> 
 
-## Mobile View
-<img width="158" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/b49b3c30-e034-402d-97dd-1fa02c0a6406">
-<img width="156" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/b0f51e72-6514-4ef1-a1b9-32bd88883b4f">
+<!--## Mobile View
+<!--<img width="158" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/b49b3c30-e034-402d-97dd-1fa02c0a6406">
+<!--<img width="156" alt="image" src="https://github.com/AkibJafri/URL-shortening-API-landing-page/assets/111608954/b0f51e72-6514-4ef1-a1b9-32bd88883b4f"> -->
 
 
 
